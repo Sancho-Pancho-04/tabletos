@@ -3,7 +3,7 @@ import time
 import os
 from datetime import datetime, timedelta
 
-TOKEN = os.environ.get("TELEGRAM_TOKEN")
+TOKEN = os.environ.get("8641202785:AAGDzpqE2HsIE6WjO-iA2RL5U2fjDa-O4e8")
 bot = telebot.TeleBot(TOKEN)
 
 CHAT_ID = 123456789  # ВСТАВЬТЕ ВАШ ID
